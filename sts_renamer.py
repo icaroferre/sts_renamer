@@ -1,3 +1,5 @@
+#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+
 # White Red Orange Yellow Green Cyan Blue Magenta Lavender Pearl
 import os
 import sys

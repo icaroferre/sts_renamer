@@ -13,6 +13,10 @@ The decode option will rename prefixes to a number index (White to 00, Red-1 to 
 ## How to Use
 
 
+**IMPORTANT: BACK UP YOU SD CARD BEFORE DOING ANYTHING!**  
+I wrote this script based on my own setup / needs therefore I haven't tested it in every possible way (altough the worst it can happen is that you folder names will end up getting messed up).
+
+
 **Basic Method:**  
 ```python3 path/to/sts_renamer.py```
 
